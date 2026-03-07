@@ -1,7 +1,7 @@
 # Resident-Evil-4---Brazilian-Mod
 Modpack de Resident evil 4 com texturas brasileiras. Projeto em desenvolvimento
 
-1 - Arquivo com texturas "01000010" - Leon kennedy com camisa do time de futebol - Esporte Clube Bahia, Leon também está usando bigode, sombrancelha "riscada" e brinco
+1 - Arquivo com texturas "01000010" - Leon kennedy com camisa do time de futebol - Esporte Clube Bahia, Leon também está usando bigode, sombrancelha "riscada", brinco e tatuagem no queixo
 
 Instalação - 
 1 - Para instalar a alteração basta copiar o arquivo "01000010.pack.yz2" e colar na pasta "Steam\steamapps\common\Resident Evil 4\BIO4\ImagePackHD"
